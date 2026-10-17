@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.caca.canonchunky.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SchematicPrinterAccessor",
+    "SchematicannonBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
